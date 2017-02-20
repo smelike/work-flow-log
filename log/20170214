@@ -1,0 +1,16 @@
+pplication 代码。直接通过在 controllers 和 views 中进行目录区分；
+ 2. svn 服务器新建项目 2.0 的代码仓库；
+ 3. 第三方库(libraries)的合并；
+ 4. assets ，views，controllers 目录合并；
+ 5. 微信小程序的开发学习；
+ 6. 2.0 版本原型文件与 1.0 版本文件的熟悉；
+
+新的目录结构：
+
+
+明日安排：
+1. model 层的合并；
+2. core 目录下面代码合并；
+
+问题反馈：
+无
